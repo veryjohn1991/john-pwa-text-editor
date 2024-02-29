@@ -1,4 +1,4 @@
-# john-pwa-text-editor# JD_PWA_Text_Editor
+# john-pwa-text-editor
 
 ## Description
 
