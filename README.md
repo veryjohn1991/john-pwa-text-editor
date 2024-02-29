@@ -17,6 +17,8 @@ In order to use this PWA Text Editor app, the user must run "npm run start" from
 
 Github repository URL:  https://github.com/veryjohn1991/john-pwa-text-editor <br>
 
+Render Deployed link: https://john-pwa-text-editor-1.onrender.com
+
 
 Deployed live application URL: 
 

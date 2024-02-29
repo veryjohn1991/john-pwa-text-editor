@@ -1,11 +1,11 @@
 {
-  "name": "JATE",
+  "name": "john-pwa-text-editor",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
     "start": "webpack --watch"
   },
-  "author": "2U",
+  "author": "john",
   "license": "UNLICENSED",
   "devDependencies": {
     "@babel/core": "^7.15.0",
